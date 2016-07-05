@@ -81,5 +81,6 @@ deploy:
   message: add new post
 backup:
     type: git
+    theme: landscape,huno
     repository:
        github: https://github.com/MoliyXuan/blog-backup.git,master
