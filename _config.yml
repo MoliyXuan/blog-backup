@@ -63,7 +63,14 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: huno
+
+# Duoshuo
+duoshuo_shortname: letian
+
+# Social
+social:
+  github: MoliyXuan
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
